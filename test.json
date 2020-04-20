@@ -1,12 +1,38 @@
 [
   {
     "id": "citron",
-    "type": "fruit"
+    "type": "fruit",
+    "saison": "Janvier à Mars",
+    "mois": "Février"
   },
   {
     "id": "poireau",
-    "type": "légume"
+    "type": "légume",
+    "saison": "Septembre à Mars",
+    "mois": "[octobre, novembre]"
+  },
+  {
+    "id": "abricot",
+    "type": "fruit",
+    "saison": "Juillet à Août",
+    "mois": ""
+  },
+  {
+    "id": "açaï",
+    "type": "fruit",
+    "saison": "Nombre à Mars",
+    "mois": ""
+  },
+  {
+    "id": "ailvfbf",
+    "type": "condiment",
+    "saison": "Avril à Août",
+    "mois": ""
   }
+  
+  
+
+  
 
 
 
