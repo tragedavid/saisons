@@ -9,7 +9,7 @@
     "id": "poireau",
     "type": "légume",
     "saison": "Septembre à Mars",
-    "mois": "[octobre, novembre]"
+    "mois": "octobre, novembre, décembre, janvier, février"
   },
   {
     "id": "abricot",
@@ -20,27 +20,58 @@
   {
     "id": "açaï",
     "type": "fruit",
-    "saison": "Nombre à Mars",
+    "saison": "Novembre à Mars",
     "mois": ""
   },
   {
-    "id": "ailvfbf",
+    "id": "ail",
     "type": "condiment",
     "saison": "Avril à Août",
     "mois": ""
+  },
+  {
+    "id": "airelle",
+    "type": "fruit",
+    "saison": "Juillet - Août",
+    "mois": ""
+  },
+  {
+    "id": "amande",
+    "type": "fruit",
+    "saison": "Juillet - Août",
+    "mois": ""
+  },
+  {
+    "id": "ananas",
+    "type": "fruit",
+    "saison": "Novembre à Mars",
+    "mois": "décembre, janvier, février"
+  },
+  {
+    "id": "aneth",
+    "type": "herbe",
+    "saison": "Juin à Septembre",
+    "mois": "juillet, août"
+  },
+  {
+    "id": "anis",
+    "type": "herbe",
+    "saison": "Juin à Septembre",
+    "mois": "juillet, août"
+  },
+  {
+    "id": "artichaut",
+    "type": "légume",
+    "saison": "Juin à Septembre",
+    "mois": "juillet, août"
+  },
+  {
+    "id": "asperge blanche",
+    "type": "légume",
+    "saison": "Avril à Juin",
+    "mois": "mai"
   }
   
-  
-
-  
-
-
-
-
-
-
-
-
 
 
 ]
